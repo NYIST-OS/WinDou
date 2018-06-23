@@ -1,0 +1,23 @@
+{
+  "name": "windou",
+  "version": "0.0.1",
+  "description": "A funny program for expressing some feelings (Hot in DouYin app).",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYIST-OS/WinDou.git"
+  },
+  "author": "kingcos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NYIST-OS/WinDou/issues"
+  },
+  "homepage": "https://github.com/NYIST-OS/WinDou#readme"
+}
